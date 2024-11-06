@@ -1,5 +1,5 @@
-### developed by: Vaishnav Nanda
-### register No. : 212222240112
+### Developed by: Vaishnav Nanda
+### Register No. : 212222240112
 # Exp.no: 10   IMPLEMENTATION OF SARIMA MODEL
 ### Date: 
 
